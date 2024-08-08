@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-* My name is Shivam Raj
+* This is Shivam Raj
 * I am a Physics Graduate at the Catholic University of America, Washington DC.
 
