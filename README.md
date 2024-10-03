@@ -15,6 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-* This is Shivam Raj
-* I am a Physics Graduate at the Catholic University of America, Washington DC.
-
